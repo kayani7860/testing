@@ -1,0 +1,50 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name" translatable="false">BiMi</string>
+    <string name="energy_main">ENERGY</string>
+    <string name="relaxation_main">RELAXATION</string>
+    <string name="sleep_main">SLEEP</string>
+    <string name="english">English</string>
+    <string name="swedish" translatable="false">Svenska</string>
+    <string name="Minute">Min</string>
+    <string name="five">5 Min</string>
+    <string name="three">3 Min</string>
+    <string name="eight">8 Min</string>
+    <string name="twelve" translatable="false">12 Min</string>
+    <string name="ten" translatable="false">10 Min</string>
+    <string name="twenty" translatable="false">20 Min</string>
+    <string name="thirty" translatable="false">30 Min</string>
+
+    <string name="Energisv" translatable="false">ENERGI</string>
+    <string name="Relaxsv" translatable="false">AVSLAPPNING</string>
+    <string name="Sleepsv" translatable="false">SOVA</string>
+
+
+
+    <string name="zero_time" translatable="false">0:00</string>
+    <string name="Svenska">Svenska</string>
+
+    <string name="htmlform" translatable="false">
+        <![CDATA[
+      <center><h1 style="text-align:center">Let me guide you to get Energy, Relaxation & Sleep with the power of your breath and your
+      concentration.</h1><h2 style="text-align:center">THE BRAIN</h2></center><ul><li>You might have noticed that your tricky brain is
+      always busy with a task and during this meditation your only task is to follow the instructions.</li><li>
+      If your brain is tired it is hard to make decisions therefore this app is designed to be easy to use.</li>
+      <li>By choosing a meditation and listening to the same instructions regularly, it is easier to fully enjoy
+       them. Predictability creates a feeling of security.</li><li>Concentration is something you create here and
+        now, in the moment.</li><li>Research shows that as little as five minutes of meditation reduces the level
+         of cortisol (a stress hormone) in your body.</li></ul><br><center><h2 style="text-align:center">BREATHING</h2></center><ul><li>How
+          you breathe has a direct affect on your mood.</li><li>These meditations focus on the kind of breathing
+          which activates our calm and soothing system</li></ul><br><center><h2 style="text-align:center">MUSIC/SOUNDS</h2></center><ul>
+          <li>The music is adapted to enhance the effect of your meditation.</li><li>The background sounds can
+          make you more focused.</li><li>You can choose to be guided with or without music.</li></ul><br><center>
+          <h2 style="text-align:center">USAGE</h2></center><ul><li>The meditations for sleep can be used to achieve deep relaxation.</li>
+          <li>You can download exercises and use the app in airplane mode.</li><li>
+      Link to BiMi website, <a href=\"http://bim-beginnersmind.com\">bim-beginnersmind.com</a></li><li>On the
+       website you can read about mindfulness and the clinical experience that underlies the app.
+        The website is for anyone who wants inspiration and in-depth.</li></ul></font></span></body></html>
+
+
+        ]]>
+    </string>
+
+</resources>

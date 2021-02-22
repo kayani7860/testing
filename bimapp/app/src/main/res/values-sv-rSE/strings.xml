@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="energy_main">ENERGI</string>
+    <string name="relaxation_main">AVSLAPPNING</string>
+    <string name="sleep_main">SOVA</string>
+    <string name="english">English</string>
+    <string name="Svenska">Swedish</string>
+    <string name="Minute">minuter</string>
+    <string name="three">3 Min</string>
+    <string name="eight">8 Min</string>
+    <string name="five" translatable="false">5 Min</string>
+</resources>
